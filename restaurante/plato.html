@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/cssPlato/plato.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="stylesheet" href="https://fontawesome.com/icons/magnifying-glass?f=classic&s=solid">
+</head>
+<body>
+    <div class="contenedor">
+        <section class="imagen">
+            <div class="valor">
+                <p>$6.99</p>
+            </div>
+            <div class="atras">
+                <a href="menu.html" class="back"><i class="fa-solid fa-arrow-left-long"></i></a>
+            </div>
+            
+        </section>
+
+        <section class="restaurante">
+            <div class="tituloPlato">
+                <p>Oven Roasted Chicken</p><a>Chopped salad</a>
+            </div>
+            <div class="descripcion"><p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Autem ducimus pariatur omnis molestias soluta nobis quaerat, officia voluptatibus delectus expedita voluptas reiciendis, quisquam aperiam, veniam asperiores aut. Quae, aspernatur provident.</p></div>
+            <div class="resenia">
+                <input type="text" placeholder="add a note(extra souce, no anions, etc.)">
+            </div>
+        </section>
+
+        <section class="carrito">
+            <div class="caja">
+                <div class="sumaOresta">
+                    <button id="restar" onclick="restarN()">-</button>
+                    <p id="contador"></p>
+                    <button id="sumar" onclick="sumarN()">+</button>
+                </div>
+                <button class="boton" onclick="añadirCarrito()"><p>ADD TO CART</p></button>
+            </div>
+        </section>
+
+    </div>
+    <script src="js/accionesResto.js"></script>
+</body>
+</html>
