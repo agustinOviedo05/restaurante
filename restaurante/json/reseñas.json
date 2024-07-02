@@ -1,0 +1,72 @@
+[
+  {
+    "usuario": "Juan Perez",
+    "calificacion": "4",
+    "plato": "Asado",
+    "imagen": "https://i0.wp.com/lamiradafotografia.es/wp-content/uploads/2014/07/foto-perfil-psicologo-180x180.jpg?resize=180%2C180",
+    "descripcion": "Excelente sabor y textura"
+  },
+  {
+    "usuario": "Maria Gomez",
+    "calificacion": "3",
+    "plato": "Empanadas",
+    "imagen": "https://murielc.com/wp-content/uploads/2020/05/201811_Fanny_1101-LR-0640px.jpg",
+    "descripcion": "Ricas pero un poco grasosas"
+  },
+  {
+    "usuario": "Carlos Rodriguez",
+    "calificacion": "5",
+    "plato": "Milanesa",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNYyco8W8ciju9OoqUbLgx__oc39uCAzKAvA&s",
+    "descripcion": "La mejor milanesa que he probado"
+  },
+  {
+    "usuario": "Laura Fernandez",
+    "calificacion": "2",
+    "plato": "Locro",
+    "imagen": "https://media.istockphoto.com/id/1208585275/es/foto/perfil-de-una-joven-serena.jpg?s=612x612&w=0&k=20&c=azzyBoFrxCHcuIyolPIQEiM9Ua2hGPy-xv6-vbwVoyw=",
+    "descripcion": "No me gustó la consistencia"
+  },
+  {
+    "usuario": "Luisa Martinez",
+    "calificacion": "4",
+    "plato": "Matambre",
+    "imagen": "https://fotografodigital.com/wp-content/uploads/2012/10/woman-right-no-smile.jpg",
+    "descripcion": "Muy tierno y sabroso"
+  },
+  {
+    "usuario": "Pedro Sanchez",
+    "calificacion": "5",
+    "plato": "Choripán",
+    "imagen": "https://i.pinimg.com/736x/89/bd/42/89bd42269655b8ad62ddb17aaa788f98.jpg",
+    "descripcion": "El mejor choripán de la ciudad"
+  },
+  {
+    "usuario": "Ana Romero",
+    "calificacion": "3",
+    "plato": "Provoleta",
+    "imagen": "https://economia3.com/wp-content/uploads/2019/12/Natalia-Juarranz-EQUIPO-HUMANO.jpg",
+    "descripcion": "Buena pero un poco quemada"
+  },
+  {
+    "usuario": "Luca Quinteros",
+    "calificacion": "4",
+    "plato": "Tarta carnosa",
+    "imagen": "profile.jpg",
+    "descripcion": "Muy rica y jugosa"
+  },
+  {
+    "usuario": "Sofia Herrera",
+    "calificacion": "2",
+    "plato": "Ravioles",
+    "imagen": "https://cdn0.psicologia-online.com/es/posts/5/9/7/la_psicologia_de_los_colores_en_las_fotos_de_perfil_3795_1_600.jpg",
+    "descripcion": "La salsa estaba muy ácida"
+  },
+  {
+    "usuario": "Diego Castro",
+    "calificacion": "5",
+    "plato": "Asado",
+    "imagen": "https://www.afondochile.cl/site/wp-content/uploads/2018/06/jose-vaisman-e1529942487664.jpg",
+    "descripcion": "Inmejorable, la carne se deshace en la boca"
+  }
+]

@@ -1,11 +1,11 @@
 let resto = document.querySelector(".resultados")
 
-fetch('JS/restaurantes.json')
+fetch('json/restaurantes.json')
 .then(response => {
      return response.json()
     })
 .then(data => {
-      for (let i=0; i < 8; i++){
+      for (let i=0; i < 10; i++){
         let puntu= ""
         if(data[i].puntuacion === 4){
             puntu = "star star star star"
